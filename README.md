@@ -1,0 +1,2 @@
+# nshrt.com
+home
